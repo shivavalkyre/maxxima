@@ -1,0 +1,14 @@
+{"level":"debug","message":"\n02 Mar 2023 21:39:33 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"02 Mar 2023 21:39:33 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"02 Mar 2023 21:39:45 - [SQL GETGEN DATA] | QUERY:\"SELECT COUNT(*) as total FROM tbl_user WHERE username='admin' AND password ='admin'\""}
+{"level":"debug","message":"02 Mar 2023 21:39:45 - [SQL GETGEN DATA] | '[{\"total\":1}]'"}
+{"level":"debug","message":"02 Mar 2023 21:39:45 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":1}]'"}
+{"level":"debug","message":"02 Mar 2023 21:39:45 - [SQL GETGEN DATA] | QUERY:\"SELECT * FROM tbl_user WHERE username='admin' AND password ='admin' LIMIT 0,10\""}
+{"level":"debug","message":"02 Mar 2023 21:39:45 - [SQL GETGEN DATA] | '[{\"id\":1,\"username\":\"Admin\",\"password\":\"Admin\",\"level\":\"Administrator\"}]'"}
+{"level":"debug","message":"02 Mar 2023 21:39:45 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":1,\"username\":\"Admin\",\"password\":\"Admin\",\"level\":\"Administrator\"}]'"}
+{"level":"debug","message":"02 Mar 2023 21:40:11 - [SQL GETGEN DATA] | QUERY:\"SELECT COUNT(*) as total FROM tbl_user WHERE username='admin' AND password ='admin'\""}
+{"level":"debug","message":"02 Mar 2023 21:40:11 - [SQL GETGEN DATA] | '[{\"total\":1}]'"}
+{"level":"debug","message":"02 Mar 2023 21:40:11 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":1}]'"}
+{"level":"debug","message":"02 Mar 2023 21:40:11 - [SQL GETGEN DATA] | QUERY:\"SELECT * FROM tbl_user WHERE username='admin' AND password ='admin' LIMIT 0,10\""}
+{"level":"debug","message":"02 Mar 2023 21:40:11 - [SQL GETGEN DATA] | '[{\"id\":1,\"username\":\"Admin\",\"password\":\"Admin\",\"level\":\"Administrator\"}]'"}
+{"level":"debug","message":"02 Mar 2023 21:40:11 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":1,\"username\":\"Admin\",\"password\":\"Admin\",\"level\":\"Administrator\"}]'"}

@@ -1,0 +1,2 @@
+{"level":"debug","message":"\n17 Jan 2023 08:37:04 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"17 Jan 2023 08:37:04 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}

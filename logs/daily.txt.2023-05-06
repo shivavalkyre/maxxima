@@ -1,0 +1,813 @@
+{"level":"debug","message":"\n06 May 2023 00:03:09 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:03:09 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:18:19 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:18:19 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:19:46 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:19:46 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:23:00 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:23:00 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:25:43 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:25:43 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:30:22 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:30:22 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:31:43 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:31:43 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:35:24 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:35:24 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:36:47 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:36:47 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:37:54 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:37:54 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:38:46 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:38:46 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:39:30 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:39:30 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:40:10 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:40:10 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:40:33 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:40:33 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:42:09 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:42:09 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:44:18 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:44:18 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:47:17 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:47:17 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:48:54 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:48:55 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:50:51 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:50:51 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:52:27 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:52:27 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:54:02 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:54:03 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:58:39 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:58:39 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 00:59:16 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 00:59:16 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:01:12 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:01:12 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:03:21 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:03:21 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:07:19 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:07:19 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:07:39 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:07:39 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:10:51 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:10:51 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:11:16 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:11:16 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:13:02 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:13:02 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:13:18 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:13:18 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:14:50 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:14:50 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:22:31 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:22:31 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:22:46 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:22:46 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:22:49 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:22:49 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:24:04 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:24:04 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:24:44 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:24:44 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:26:59 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:26:59 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:30:01 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:30:01 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:32:04 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:32:04 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:32:15 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:32:15 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:33:22 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:33:22 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:34:38 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:34:38 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:35:03 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:35:03 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:37:06 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:37:06 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:40:41 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:40:41 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:41:31 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:41:31 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:43:06 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:43:06 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:43:38 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:43:38 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:44:45 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:44:45 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:48:17 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:48:17 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:49:03 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:49:03 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:49:50 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:49:50 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:51:28 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:51:28 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:52:20 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:52:20 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:53:45 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:53:45 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:54:31 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:54:31 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:56:31 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:56:31 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:57:23 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:57:23 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:57:54 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:57:54 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:58:01 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:58:01 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 01:59:36 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 01:59:36 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 02:00:11 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 02:00:11 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"06 May 2023 06:30:24 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 06:30:24 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:30:24 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:30:24 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian'"}
+{"level":"debug","message":"06 May 2023 06:30:24 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 06:30:24 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:30:24 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:30:24 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian'"}
+{"level":"debug","message":"06 May 2023 06:30:24 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 06:30:24 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 06:30:24 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 06:30:24 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 06:30:24 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM hasil'"}
+{"level":"debug","message":"06 May 2023 06:30:24 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 06:30:24 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 06:30:24 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM hasil LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 06:30:24 - [SQL GETGEN DATA] | '[{\"id\":3,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234562\"},{\"id\":6,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"C\",\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 06:30:24 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":3,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234562\"},{\"id\":6,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"C\",\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 06:30:44 - [SQL GETGEN DATA] | QUERY:\"SELECT COUNT(*) as total FROM tbl_user WHERE username='Admin' AND password ='Admin'\""}
+{"level":"debug","message":"06 May 2023 06:30:44 - [SQL GETGEN DATA] | '[{\"total\":1}]'"}
+{"level":"debug","message":"06 May 2023 06:30:44 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":1}]'"}
+{"level":"debug","message":"06 May 2023 06:30:44 - [SQL GETGEN DATA] | QUERY:\"SELECT * FROM tbl_user WHERE username='Admin' AND password ='Admin' LIMIT 0,10\""}
+{"level":"debug","message":"06 May 2023 06:30:44 - [SQL GETGEN DATA] | '[{\"id\":2,\"username\":\"Admin\",\"password\":\"Admin\",\"level\":\"Administrator\"}]'"}
+{"level":"debug","message":"06 May 2023 06:30:44 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":2,\"username\":\"Admin\",\"password\":\"Admin\",\"level\":\"Administrator\"}]'"}
+{"level":"debug","message":"06 May 2023 06:35:52 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM siswa'"}
+{"level":"debug","message":"06 May 2023 06:35:52 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 06:35:52 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 06:35:52 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM siswa LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 06:35:52 - [SQL GETGEN DATA] | '[{\"id\":5,\"nis\":\"1234561\",\"nama\":\"siswa1\",\"alamat\":\"alamat1\"},{\"id\":6,\"nis\":\"1234562\",\"nama\":\"siswa2\",\"alamat\":\"alamat2\"},{\"id\":7,\"nis\":\"1234563\",\"nama\":\"siswa3\",\"alamat\":\"alamat3\"}]'"}
+{"level":"debug","message":"06 May 2023 06:35:52 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":5,\"nis\":\"1234561\",\"nama\":\"siswa1\",\"alamat\":\"alamat1\"},{\"id\":6,\"nis\":\"1234562\",\"nama\":\"siswa2\",\"alamat\":\"alamat2\"},{\"id\":7,\"nis\":\"1234563\",\"nama\":\"siswa3\",\"alamat\":\"alamat3\"}]'"}
+{"level":"debug","message":"06 May 2023 06:35:56 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 06:35:56 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:35:56 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:35:56 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM mata_pelajaran LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 06:35:56 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 06:35:56 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 06:36:00 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 06:36:00 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:36:00 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:36:00 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM  mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 06:36:00 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 06:36:00 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 06:36:00 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 06:36:00 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:36:00 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:36:00 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM  mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 06:36:00 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 06:36:00 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 06:36:00 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 06:36:00 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:36:00 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:36:00 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 06:36:00 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 06:36:00 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM siswa'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM siswa'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [SQL GETGEN DATA] | '[{\"id\":5,\"nis\":\"1234561\",\"nama\":\"siswa1\",\"alamat\":\"alamat1\"},{\"id\":6,\"nis\":\"1234562\",\"nama\":\"siswa2\",\"alamat\":\"alamat2\"},{\"id\":7,\"nis\":\"1234563\",\"nama\":\"siswa3\",\"alamat\":\"alamat3\"}]'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":5,\"nis\":\"1234561\",\"nama\":\"siswa1\",\"alamat\":\"alamat1\"},{\"id\":6,\"nis\":\"1234562\",\"nama\":\"siswa2\",\"alamat\":\"alamat2\"},{\"id\":7,\"nis\":\"1234563\",\"nama\":\"siswa3\",\"alamat\":\"alamat3\"}]'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM siswa'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM siswa'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [SQL GETGEN DATA] | '[{\"id\":5,\"nis\":\"1234561\",\"nama\":\"siswa1\",\"alamat\":\"alamat1\"},{\"id\":6,\"nis\":\"1234562\",\"nama\":\"siswa2\",\"alamat\":\"alamat2\"},{\"id\":7,\"nis\":\"1234563\",\"nama\":\"siswa3\",\"alamat\":\"alamat3\"}]'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":5,\"nis\":\"1234561\",\"nama\":\"siswa1\",\"alamat\":\"alamat1\"},{\"id\":6,\"nis\":\"1234562\",\"nama\":\"siswa2\",\"alamat\":\"alamat2\"},{\"id\":7,\"nis\":\"1234563\",\"nama\":\"siswa3\",\"alamat\":\"alamat3\"}]'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM peserta'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [SQL GETGEN DATA] | '[{\"total\":6}]'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":6}]'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM peserta LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [SQL GETGEN DATA] | '[{\"id\":3,\"id_ujian\":4,\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"peserta\":\"1234562\"},{\"id\":5,\"id_ujian\":4,\"peserta\":\"1234563\"},{\"id\":6,\"id_ujian\":5,\"peserta\":\"1234561\"},{\"id\":7,\"id_ujian\":5,\"peserta\":\"1234562\"},{\"id\":8,\"id_ujian\":5,\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 06:37:11 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":3,\"id_ujian\":4,\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"peserta\":\"1234562\"},{\"id\":5,\"id_ujian\":4,\"peserta\":\"1234563\"},{\"id\":6,\"id_ujian\":5,\"peserta\":\"1234561\"},{\"id\":7,\"id_ujian\":5,\"peserta\":\"1234562\"},{\"id\":8,\"id_ujian\":5,\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 06:38:08 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 06:38:08 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:38:08 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:38:08 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian'"}
+{"level":"debug","message":"06 May 2023 06:38:08 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 06:38:08 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 06:38:08 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 06:38:08 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:38:08 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:38:08 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian'"}
+{"level":"debug","message":"06 May 2023 06:38:08 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 06:38:08 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 06:38:08 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM hasil'"}
+{"level":"debug","message":"06 May 2023 06:38:08 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 06:38:08 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 06:38:08 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM hasil LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 06:38:08 - [SQL GETGEN DATA] | '[{\"id\":3,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234562\"},{\"id\":6,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"C\",\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 06:38:08 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":3,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234562\"},{\"id\":6,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"C\",\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 06:38:16 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 06:38:16 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:38:16 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 06:38:16 - [SQL GETGEN DATA] | QUERY:\"SELECT ujian.id_matpel,mata_pelajaran.nama_matpel FROM ujian INNER JOIN mata_pelajaran ON ujian.id_matpel = mata_pelajaran.id_matpel WHERE ujian.id ='4'\""}
+{"level":"debug","message":"06 May 2023 06:38:16 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"}]'"}
+{"level":"debug","message":"06 May 2023 06:38:16 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"}]'"}
+{"level":"debug","message":"06 May 2023 06:38:16 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM siswa'"}
+{"level":"debug","message":"06 May 2023 06:38:16 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 06:38:16 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 06:38:16 - [SQL GETGEN DATA] | QUERY:'SELECT peserta FROM peserta WHERE id_ujian=4'"}
+{"level":"debug","message":"06 May 2023 06:38:16 - [SQL GETGEN DATA] | '[{\"peserta\":\"1234561\"},{\"peserta\":\"1234562\"},{\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 06:38:16 - [RESULT GETGEN DATA ARRAY] | '[{\"peserta\":\"1234561\"},{\"peserta\":\"1234562\"},{\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"\n06 May 2023 14:15:17 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 14:15:17 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"06 May 2023 14:15:26 - [SQL GETGEN DATA] | QUERY:\"SELECT COUNT(*) as total FROM tbl_user WHERE username='Admin' AND password ='Admin'\""}
+{"level":"debug","message":"06 May 2023 14:15:27 - [SQL GETGEN DATA] | '[{\"total\":1}]'"}
+{"level":"debug","message":"06 May 2023 14:15:27 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":1}]'"}
+{"level":"debug","message":"06 May 2023 14:15:27 - [SQL GETGEN DATA] | QUERY:\"SELECT * FROM tbl_user WHERE username='Admin' AND password ='Admin' LIMIT 0,10\""}
+{"level":"debug","message":"06 May 2023 14:15:27 - [SQL GETGEN DATA] | '[{\"id\":2,\"username\":\"Admin\",\"password\":\"Admin\",\"level\":\"Administrator\"}]'"}
+{"level":"debug","message":"06 May 2023 14:15:27 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":2,\"username\":\"Admin\",\"password\":\"Admin\",\"level\":\"Administrator\"}]'"}
+{"level":"debug","message":"\n06 May 2023 14:16:57 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 14:16:57 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 14:17:31 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 14:17:31 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 14:18:06 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 14:18:06 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 14:26:13 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 14:26:13 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"06 May 2023 14:27:24 - [SQL GETGEN DATA] | QUERY:\"SELECT COUNT(*) as total FROM tbl_user WHERE username='Admin' AND password ='Admin'\""}
+{"level":"debug","message":"06 May 2023 14:27:24 - [SQL GETGEN DATA] | '[{\"total\":1}]'"}
+{"level":"debug","message":"06 May 2023 14:27:24 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":1}]'"}
+{"level":"debug","message":"06 May 2023 14:27:24 - [SQL GETGEN DATA] | QUERY:\"SELECT * FROM tbl_user WHERE username='Admin' AND password ='Admin' LIMIT 0,10\""}
+{"level":"debug","message":"06 May 2023 14:27:24 - [SQL GETGEN DATA] | '[{\"id\":2,\"username\":\"Admin\",\"password\":\"Admin\",\"level\":\"Administrator\"}]'"}
+{"level":"debug","message":"06 May 2023 14:27:24 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":2,\"username\":\"Admin\",\"password\":\"Admin\",\"level\":\"Administrator\"}]'"}
+{"level":"debug","message":"06 May 2023 14:27:34 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM siswa'"}
+{"level":"debug","message":"06 May 2023 14:27:34 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 14:27:34 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 14:27:34 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM siswa LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:27:34 - [SQL GETGEN DATA] | '[{\"id\":5,\"nis\":\"1234561\",\"nama\":\"siswa1\",\"alamat\":\"alamat1\"},{\"id\":6,\"nis\":\"1234562\",\"nama\":\"siswa2\",\"alamat\":\"alamat2\"},{\"id\":7,\"nis\":\"1234563\",\"nama\":\"siswa3\",\"alamat\":\"alamat3\"}]'"}
+{"level":"debug","message":"06 May 2023 14:27:34 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":5,\"nis\":\"1234561\",\"nama\":\"siswa1\",\"alamat\":\"alamat1\"},{\"id\":6,\"nis\":\"1234562\",\"nama\":\"siswa2\",\"alamat\":\"alamat2\"},{\"id\":7,\"nis\":\"1234563\",\"nama\":\"siswa3\",\"alamat\":\"alamat3\"}]'"}
+{"level":"debug","message":"06 May 2023 14:27:44 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:27:44 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 14:27:44 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 14:27:44 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM mata_pelajaran LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:27:44 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 14:27:44 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 14:27:58 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:27:58 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 14:27:58 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 14:27:58 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM  mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:27:58 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 14:27:58 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 14:27:58 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:27:58 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 14:27:58 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 14:27:58 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM mata_pelajaran LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:27:58 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 14:27:58 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 14:28:05 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:28:05 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 14:28:05 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 14:28:05 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM  mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:28:05 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 14:28:05 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 14:28:05 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:28:05 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 14:28:05 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 14:28:05 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM mata_pelajaran LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:28:05 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 14:28:05 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 14:28:10 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:28:10 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 14:28:10 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 14:28:10 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM mata_pelajaran LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:28:10 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 14:28:10 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 14:29:06 - [SQL GETGEN DATA] | QUERY:\"UPDATE mata_pelajaran SET nama_matpel='Biologi1' WHERE id_matpel='7'\""}
+{"level":"debug","message":"06 May 2023 14:29:06 - [SQL GETGEN DATA] | '{\"fieldCount\":0,\"affectedRows\":1,\"insertId\":0,\"serverStatus\":2,\"warningCount\":0,\"message\":\"(Rows matched: 1  Changed: 1  Warnings: 0\",\"protocol41\":true,\"changedRows\":1}'"}
+{"level":"debug","message":"06 May 2023 14:29:06 - [RESULT GETGEN DATA INSERT/UPDATE/DELETE] | DATA : '\"UPDATE\"'"}
+{"level":"debug","message":"06 May 2023 14:29:06 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:29:06 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 14:29:06 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 14:29:06 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM mata_pelajaran LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:29:06 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi1\"}]'"}
+{"level":"debug","message":"06 May 2023 14:29:06 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi1\"}]'"}
+{"level":"debug","message":"06 May 2023 14:29:10 - [SQL GETGEN DATA] | QUERY:\"UPDATE mata_pelajaran SET nama_matpel='Biologi' WHERE id_matpel='7'\""}
+{"level":"debug","message":"06 May 2023 14:29:11 - [SQL GETGEN DATA] | '{\"fieldCount\":0,\"affectedRows\":1,\"insertId\":0,\"serverStatus\":2,\"warningCount\":0,\"message\":\"(Rows matched: 1  Changed: 1  Warnings: 0\",\"protocol41\":true,\"changedRows\":1}'"}
+{"level":"debug","message":"06 May 2023 14:29:11 - [RESULT GETGEN DATA INSERT/UPDATE/DELETE] | DATA : '\"UPDATE\"'"}
+{"level":"debug","message":"06 May 2023 14:29:11 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:29:11 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 14:29:11 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 14:29:11 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM mata_pelajaran LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:29:11 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 14:29:11 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"\n06 May 2023 14:31:13 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 14:31:13 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"06 May 2023 14:31:33 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:31:33 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 14:31:33 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 14:31:33 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM mata_pelajaran LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:31:33 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 14:31:33 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 14:31:40 - [SQL GETGEN DATA] | QUERY:\"INSERT INTO mata_pelajaran(nama_matpel) VALUES ('Fisika')\""}
+{"level":"debug","message":"06 May 2023 14:31:40 - [SQL GETGEN DATA] | '{\"fieldCount\":0,\"affectedRows\":1,\"insertId\":8,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}'"}
+{"level":"debug","message":"06 May 2023 14:31:40 - [RESULT GETGEN DATA INSERT/UPDATE/DELETE] | DATA : '\"INSERT\"'"}
+{"level":"debug","message":"06 May 2023 14:31:40 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:31:40 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 14:31:40 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 14:31:40 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM mata_pelajaran LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:31:40 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"}]'"}
+{"level":"debug","message":"06 May 2023 14:31:40 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"}]'"}
+{"level":"debug","message":"06 May 2023 14:31:46 - [SQL GETGEN DATA] | QUERY:\"INSERT INTO mata_pelajaran(nama_matpel) VALUES ('Kimia')\""}
+{"level":"debug","message":"06 May 2023 14:31:46 - [SQL GETGEN DATA] | '{\"fieldCount\":0,\"affectedRows\":1,\"insertId\":9,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}'"}
+{"level":"debug","message":"06 May 2023 14:31:46 - [RESULT GETGEN DATA INSERT/UPDATE/DELETE] | DATA : '\"INSERT\"'"}
+{"level":"debug","message":"06 May 2023 14:31:46 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:31:46 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:31:46 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:31:46 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM mata_pelajaran LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:31:46 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 14:31:46 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 14:31:56 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:31:56 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:31:56 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:31:56 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM  mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:31:56 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 14:31:56 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 14:31:56 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:31:56 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:31:56 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:31:56 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM  mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:31:56 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 14:31:56 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 14:31:57 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 14:31:57 - [SQL GETGEN DATA] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 14:31:57 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":2}]'"}
+{"level":"debug","message":"06 May 2023 14:31:57 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:31:57 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 14:31:57 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 14:32:18 - [SQL GETGEN DATA] | QUERY:\"INSERT INTO ujian(nama_ujian,id_matpel,tanggal) VALUES ('Ujian3','8','2023-05-06 14:32:14')\""}
+{"level":"debug","message":"06 May 2023 14:32:18 - [SQL GETGEN DATA] | '{\"fieldCount\":0,\"affectedRows\":1,\"insertId\":6,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}'"}
+{"level":"debug","message":"06 May 2023 14:32:18 - [RESULT GETGEN DATA INSERT/UPDATE/DELETE] | DATA : '\"INSERT\"'"}
+{"level":"debug","message":"06 May 2023 14:32:18 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 14:32:18 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 14:32:18 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 14:32:18 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:32:18 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 14:32:18 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 14:32:42 - [SQL GETGEN DATA] | QUERY:\"INSERT INTO ujian(nama_ujian,id_matpel,tanggal) VALUES ('Ujian4','9','2023-05-06 14:32:39')\""}
+{"level":"debug","message":"06 May 2023 14:32:42 - [SQL GETGEN DATA] | '{\"fieldCount\":0,\"affectedRows\":1,\"insertId\":7,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}'"}
+{"level":"debug","message":"06 May 2023 14:32:42 - [RESULT GETGEN DATA INSERT/UPDATE/DELETE] | DATA : '\"INSERT\"'"}
+{"level":"debug","message":"06 May 2023 14:32:42 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 14:32:42 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:32:42 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:32:42 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:32:42 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 14:32:42 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM siswa'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM siswa'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [SQL GETGEN DATA] | '[{\"id\":5,\"nis\":\"1234561\",\"nama\":\"siswa1\",\"alamat\":\"alamat1\"},{\"id\":6,\"nis\":\"1234562\",\"nama\":\"siswa2\",\"alamat\":\"alamat2\"},{\"id\":7,\"nis\":\"1234563\",\"nama\":\"siswa3\",\"alamat\":\"alamat3\"}]'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":5,\"nis\":\"1234561\",\"nama\":\"siswa1\",\"alamat\":\"alamat1\"},{\"id\":6,\"nis\":\"1234562\",\"nama\":\"siswa2\",\"alamat\":\"alamat2\"},{\"id\":7,\"nis\":\"1234563\",\"nama\":\"siswa3\",\"alamat\":\"alamat3\"}]'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM siswa'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM siswa'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [SQL GETGEN DATA] | '[{\"id\":5,\"nis\":\"1234561\",\"nama\":\"siswa1\",\"alamat\":\"alamat1\"},{\"id\":6,\"nis\":\"1234562\",\"nama\":\"siswa2\",\"alamat\":\"alamat2\"},{\"id\":7,\"nis\":\"1234563\",\"nama\":\"siswa3\",\"alamat\":\"alamat3\"}]'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":5,\"nis\":\"1234561\",\"nama\":\"siswa1\",\"alamat\":\"alamat1\"},{\"id\":6,\"nis\":\"1234562\",\"nama\":\"siswa2\",\"alamat\":\"alamat2\"},{\"id\":7,\"nis\":\"1234563\",\"nama\":\"siswa3\",\"alamat\":\"alamat3\"}]'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM peserta'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [SQL GETGEN DATA] | '[{\"total\":6}]'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":6}]'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM peserta LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [SQL GETGEN DATA] | '[{\"id\":3,\"id_ujian\":4,\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"peserta\":\"1234562\"},{\"id\":5,\"id_ujian\":4,\"peserta\":\"1234563\"},{\"id\":6,\"id_ujian\":5,\"peserta\":\"1234561\"},{\"id\":7,\"id_ujian\":5,\"peserta\":\"1234562\"},{\"id\":8,\"id_ujian\":5,\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 14:32:50 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":3,\"id_ujian\":4,\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"peserta\":\"1234562\"},{\"id\":5,\"id_ujian\":4,\"peserta\":\"1234563\"},{\"id\":6,\"id_ujian\":5,\"peserta\":\"1234561\"},{\"id\":7,\"id_ujian\":5,\"peserta\":\"1234562\"},{\"id\":8,\"id_ujian\":5,\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 14:33:02 - [SQL GETGEN DATA] | QUERY:\"INSERT INTO peserta(id_ujian,peserta) VALUES (6,'1234561')\""}
+{"level":"debug","message":"06 May 2023 14:33:02 - [SQL GETGEN DATA] | '{\"fieldCount\":0,\"affectedRows\":1,\"insertId\":9,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}'"}
+{"level":"debug","message":"06 May 2023 14:33:02 - [RESULT GETGEN DATA INSERT/UPDATE/DELETE] | DATA : '\"INSERT\"'"}
+{"level":"debug","message":"06 May 2023 14:33:02 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM peserta'"}
+{"level":"debug","message":"06 May 2023 14:33:02 - [SQL GETGEN DATA] | '[{\"total\":7}]'"}
+{"level":"debug","message":"06 May 2023 14:33:02 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":7}]'"}
+{"level":"debug","message":"06 May 2023 14:33:02 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM peserta LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:33:02 - [SQL GETGEN DATA] | '[{\"id\":3,\"id_ujian\":4,\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"peserta\":\"1234562\"},{\"id\":5,\"id_ujian\":4,\"peserta\":\"1234563\"},{\"id\":6,\"id_ujian\":5,\"peserta\":\"1234561\"},{\"id\":7,\"id_ujian\":5,\"peserta\":\"1234562\"},{\"id\":8,\"id_ujian\":5,\"peserta\":\"1234563\"},{\"id\":9,\"id_ujian\":6,\"peserta\":\"1234561\"}]'"}
+{"level":"debug","message":"06 May 2023 14:33:02 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":3,\"id_ujian\":4,\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"peserta\":\"1234562\"},{\"id\":5,\"id_ujian\":4,\"peserta\":\"1234563\"},{\"id\":6,\"id_ujian\":5,\"peserta\":\"1234561\"},{\"id\":7,\"id_ujian\":5,\"peserta\":\"1234562\"},{\"id\":8,\"id_ujian\":5,\"peserta\":\"1234563\"},{\"id\":9,\"id_ujian\":6,\"peserta\":\"1234561\"}]'"}
+{"level":"debug","message":"06 May 2023 14:33:15 - [SQL GETGEN DATA] | QUERY:\"INSERT INTO peserta(id_ujian,peserta) VALUES (6,'1234562')\""}
+{"level":"debug","message":"06 May 2023 14:33:15 - [SQL GETGEN DATA] | '{\"fieldCount\":0,\"affectedRows\":1,\"insertId\":10,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}'"}
+{"level":"debug","message":"06 May 2023 14:33:15 - [RESULT GETGEN DATA INSERT/UPDATE/DELETE] | DATA : '\"INSERT\"'"}
+{"level":"debug","message":"06 May 2023 14:33:15 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM peserta'"}
+{"level":"debug","message":"06 May 2023 14:33:15 - [SQL GETGEN DATA] | '[{\"total\":8}]'"}
+{"level":"debug","message":"06 May 2023 14:33:15 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":8}]'"}
+{"level":"debug","message":"06 May 2023 14:33:15 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM peserta LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:33:15 - [SQL GETGEN DATA] | '[{\"id\":3,\"id_ujian\":4,\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"peserta\":\"1234562\"},{\"id\":5,\"id_ujian\":4,\"peserta\":\"1234563\"},{\"id\":6,\"id_ujian\":5,\"peserta\":\"1234561\"},{\"id\":7,\"id_ujian\":5,\"peserta\":\"1234562\"},{\"id\":8,\"id_ujian\":5,\"peserta\":\"1234563\"},{\"id\":9,\"id_ujian\":6,\"peserta\":\"1234561\"},{\"id\":10,\"id_ujian\":6,\"peserta\":\"1234562\"}]'"}
+{"level":"debug","message":"06 May 2023 14:33:15 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":3,\"id_ujian\":4,\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"peserta\":\"1234562\"},{\"id\":5,\"id_ujian\":4,\"peserta\":\"1234563\"},{\"id\":6,\"id_ujian\":5,\"peserta\":\"1234561\"},{\"id\":7,\"id_ujian\":5,\"peserta\":\"1234562\"},{\"id\":8,\"id_ujian\":5,\"peserta\":\"1234563\"},{\"id\":9,\"id_ujian\":6,\"peserta\":\"1234561\"},{\"id\":10,\"id_ujian\":6,\"peserta\":\"1234562\"}]'"}
+{"level":"debug","message":"06 May 2023 14:33:24 - [SQL GETGEN DATA] | QUERY:\"INSERT INTO peserta(id_ujian,peserta) VALUES (6,'1234563')\""}
+{"level":"debug","message":"06 May 2023 14:33:24 - [SQL GETGEN DATA] | '{\"fieldCount\":0,\"affectedRows\":1,\"insertId\":11,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}'"}
+{"level":"debug","message":"06 May 2023 14:33:24 - [RESULT GETGEN DATA INSERT/UPDATE/DELETE] | DATA : '\"INSERT\"'"}
+{"level":"debug","message":"06 May 2023 14:33:24 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM peserta'"}
+{"level":"debug","message":"06 May 2023 14:33:24 - [SQL GETGEN DATA] | '[{\"total\":9}]'"}
+{"level":"debug","message":"06 May 2023 14:33:24 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":9}]'"}
+{"level":"debug","message":"06 May 2023 14:33:24 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM peserta LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:33:24 - [SQL GETGEN DATA] | '[{\"id\":3,\"id_ujian\":4,\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"peserta\":\"1234562\"},{\"id\":5,\"id_ujian\":4,\"peserta\":\"1234563\"},{\"id\":6,\"id_ujian\":5,\"peserta\":\"1234561\"},{\"id\":7,\"id_ujian\":5,\"peserta\":\"1234562\"},{\"id\":8,\"id_ujian\":5,\"peserta\":\"1234563\"},{\"id\":9,\"id_ujian\":6,\"peserta\":\"1234561\"},{\"id\":10,\"id_ujian\":6,\"peserta\":\"1234562\"},{\"id\":11,\"id_ujian\":6,\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 14:33:24 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":3,\"id_ujian\":4,\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"peserta\":\"1234562\"},{\"id\":5,\"id_ujian\":4,\"peserta\":\"1234563\"},{\"id\":6,\"id_ujian\":5,\"peserta\":\"1234561\"},{\"id\":7,\"id_ujian\":5,\"peserta\":\"1234562\"},{\"id\":8,\"id_ujian\":5,\"peserta\":\"1234563\"},{\"id\":9,\"id_ujian\":6,\"peserta\":\"1234561\"},{\"id\":10,\"id_ujian\":6,\"peserta\":\"1234562\"},{\"id\":11,\"id_ujian\":6,\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 14:33:28 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 14:33:28 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:33:28 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:33:28 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian'"}
+{"level":"debug","message":"06 May 2023 14:33:28 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 14:33:28 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 14:33:28 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 14:33:28 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:33:28 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:33:28 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian'"}
+{"level":"debug","message":"06 May 2023 14:33:28 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 14:33:28 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 14:33:28 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM hasil'"}
+{"level":"debug","message":"06 May 2023 14:33:28 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 14:33:28 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 14:33:28 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM hasil LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:33:28 - [SQL GETGEN DATA] | '[{\"id\":3,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234562\"},{\"id\":6,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"C\",\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 14:33:28 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":3,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234562\"},{\"id\":6,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"C\",\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 14:33:33 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:33:33 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:33:33 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:33:33 - [SQL GETGEN DATA] | QUERY:\"SELECT ujian.id_matpel,mata_pelajaran.nama_matpel FROM ujian INNER JOIN mata_pelajaran ON ujian.id_matpel = mata_pelajaran.id_matpel WHERE ujian.id ='6'\""}
+{"level":"debug","message":"06 May 2023 14:33:33 - [SQL GETGEN DATA] | '[{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"}]'"}
+{"level":"debug","message":"06 May 2023 14:33:33 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"}]'"}
+{"level":"debug","message":"06 May 2023 14:33:33 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM siswa'"}
+{"level":"debug","message":"06 May 2023 14:33:33 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 14:33:33 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 14:33:33 - [SQL GETGEN DATA] | QUERY:'SELECT peserta FROM peserta WHERE id_ujian=6'"}
+{"level":"debug","message":"06 May 2023 14:33:33 - [SQL GETGEN DATA] | '[{\"peserta\":\"1234561\"},{\"peserta\":\"1234562\"},{\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 14:33:33 - [RESULT GETGEN DATA ARRAY] | '[{\"peserta\":\"1234561\"},{\"peserta\":\"1234562\"},{\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 14:34:38 - [SQL GETGEN DATA] | QUERY:\"INSERT INTO hasil(id_ujian,id_matpel,peserta,hasil) VALUES ('6','8','1234561','C')\""}
+{"level":"debug","message":"06 May 2023 14:34:38 - [SQL GETGEN DATA] | '{\"fieldCount\":0,\"affectedRows\":1,\"insertId\":7,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}'"}
+{"level":"debug","message":"06 May 2023 14:34:38 - [RESULT GETGEN DATA INSERT/UPDATE/DELETE] | DATA : '\"INSERT\"'"}
+{"level":"debug","message":"06 May 2023 14:34:38 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM hasil'"}
+{"level":"debug","message":"06 May 2023 14:34:38 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:34:38 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:34:38 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM hasil LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:34:38 - [SQL GETGEN DATA] | '[{\"id\":3,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234562\"},{\"id\":6,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"C\",\"peserta\":\"1234563\"},{\"id\":7,\"id_ujian\":6,\"id_matpel\":8,\"hasil\":\"C\",\"peserta\":\"1234561\"}]'"}
+{"level":"debug","message":"06 May 2023 14:34:38 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":3,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234562\"},{\"id\":6,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"C\",\"peserta\":\"1234563\"},{\"id\":7,\"id_ujian\":6,\"id_matpel\":8,\"hasil\":\"C\",\"peserta\":\"1234561\"}]'"}
+{"level":"debug","message":"06 May 2023 14:35:12 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:35:12 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:35:12 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:35:12 - [SQL GETGEN DATA] | QUERY:\"SELECT ujian.id_matpel,mata_pelajaran.nama_matpel FROM ujian INNER JOIN mata_pelajaran ON ujian.id_matpel = mata_pelajaran.id_matpel WHERE ujian.id ='7'\""}
+{"level":"debug","message":"06 May 2023 14:35:12 - [SQL GETGEN DATA] | '[{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 14:35:12 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 14:35:12 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM siswa'"}
+{"level":"debug","message":"06 May 2023 14:35:12 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 14:35:12 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 14:35:12 - [SQL GETGEN DATA] | QUERY:'SELECT peserta FROM peserta WHERE id_ujian=7'"}
+{"level":"debug","message":"06 May 2023 14:35:12 - [SQL GETGEN DATA] | '[]'"}
+{"level":"debug","message":"06 May 2023 14:35:12 - [RESULT GETGEN DATA] | KOSONG: undefined"}
+{"level":"debug","message":"06 May 2023 14:35:17 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:35:17 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:35:17 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:35:17 - [SQL GETGEN DATA] | QUERY:\"SELECT ujian.id_matpel,mata_pelajaran.nama_matpel FROM ujian INNER JOIN mata_pelajaran ON ujian.id_matpel = mata_pelajaran.id_matpel WHERE ujian.id ='4'\""}
+{"level":"debug","message":"06 May 2023 14:35:17 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"}]'"}
+{"level":"debug","message":"06 May 2023 14:35:17 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"}]'"}
+{"level":"debug","message":"06 May 2023 14:35:17 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM siswa'"}
+{"level":"debug","message":"06 May 2023 14:35:17 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 14:35:17 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 14:35:17 - [SQL GETGEN DATA] | QUERY:'SELECT peserta FROM peserta WHERE id_ujian=4'"}
+{"level":"debug","message":"06 May 2023 14:35:17 - [SQL GETGEN DATA] | '[{\"peserta\":\"1234561\"},{\"peserta\":\"1234562\"},{\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 14:35:17 - [RESULT GETGEN DATA ARRAY] | '[{\"peserta\":\"1234561\"},{\"peserta\":\"1234562\"},{\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 14:35:55 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:35:55 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:35:55 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:35:55 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM mata_pelajaran LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:35:55 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 14:35:55 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"\n06 May 2023 14:36:25 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 14:36:25 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"06 May 2023 14:36:30 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:36:30 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:36:30 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:36:30 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM mata_pelajaran LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:36:30 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 14:36:30 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 14:36:57 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:36:57 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:36:57 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:36:57 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM mata_pelajaran LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:36:57 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 14:36:57 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"\n06 May 2023 14:37:50 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 14:37:50 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"06 May 2023 14:38:47 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 14:38:47 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:38:47 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 14:38:47 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM mata_pelajaran LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 14:38:47 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 14:38:47 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 16:26:35 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 16:26:35 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:26:35 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:26:35 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian'"}
+{"level":"debug","message":"06 May 2023 16:26:35 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 16:26:35 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 16:26:35 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 16:26:35 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:26:35 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:26:35 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian'"}
+{"level":"debug","message":"06 May 2023 16:26:35 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 16:26:35 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 16:26:35 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM hasil'"}
+{"level":"debug","message":"06 May 2023 16:26:35 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:26:35 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:26:35 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM hasil LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 16:26:35 - [SQL GETGEN DATA] | '[{\"id\":3,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234562\"},{\"id\":6,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"C\",\"peserta\":\"1234563\"},{\"id\":7,\"id_ujian\":6,\"id_matpel\":8,\"hasil\":\"C\",\"peserta\":\"1234561\"}]'"}
+{"level":"debug","message":"06 May 2023 16:26:35 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":3,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234562\"},{\"id\":6,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"C\",\"peserta\":\"1234563\"},{\"id\":7,\"id_ujian\":6,\"id_matpel\":8,\"hasil\":\"C\",\"peserta\":\"1234561\"}]'"}
+{"level":"debug","message":"06 May 2023 16:28:57 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM siswa'"}
+{"level":"debug","message":"06 May 2023 16:28:57 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 16:28:57 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 16:28:57 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM siswa LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 16:28:57 - [SQL GETGEN DATA] | '[{\"id\":5,\"nis\":\"1234561\",\"nama\":\"siswa1\",\"alamat\":\"alamat1\"},{\"id\":6,\"nis\":\"1234562\",\"nama\":\"siswa2\",\"alamat\":\"alamat2\"},{\"id\":7,\"nis\":\"1234563\",\"nama\":\"siswa3\",\"alamat\":\"alamat3\"}]'"}
+{"level":"debug","message":"06 May 2023 16:28:57 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":5,\"nis\":\"1234561\",\"nama\":\"siswa1\",\"alamat\":\"alamat1\"},{\"id\":6,\"nis\":\"1234562\",\"nama\":\"siswa2\",\"alamat\":\"alamat2\"},{\"id\":7,\"nis\":\"1234563\",\"nama\":\"siswa3\",\"alamat\":\"alamat3\"}]'"}
+{"level":"debug","message":"06 May 2023 16:29:10 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 16:29:10 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:29:10 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:29:10 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM  mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 16:29:10 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 16:29:10 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 16:29:10 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 16:29:10 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:29:10 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:29:10 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM  mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 16:29:10 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 16:29:10 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 16:29:10 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 16:29:10 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:29:10 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:29:10 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 16:29:10 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 16:29:10 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM siswa'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM siswa'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [SQL GETGEN DATA] | '[{\"id\":5,\"nis\":\"1234561\",\"nama\":\"siswa1\",\"alamat\":\"alamat1\"},{\"id\":6,\"nis\":\"1234562\",\"nama\":\"siswa2\",\"alamat\":\"alamat2\"},{\"id\":7,\"nis\":\"1234563\",\"nama\":\"siswa3\",\"alamat\":\"alamat3\"}]'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":5,\"nis\":\"1234561\",\"nama\":\"siswa1\",\"alamat\":\"alamat1\"},{\"id\":6,\"nis\":\"1234562\",\"nama\":\"siswa2\",\"alamat\":\"alamat2\"},{\"id\":7,\"nis\":\"1234563\",\"nama\":\"siswa3\",\"alamat\":\"alamat3\"}]'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM siswa'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM siswa'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [SQL GETGEN DATA] | '[{\"id\":5,\"nis\":\"1234561\",\"nama\":\"siswa1\",\"alamat\":\"alamat1\"},{\"id\":6,\"nis\":\"1234562\",\"nama\":\"siswa2\",\"alamat\":\"alamat2\"},{\"id\":7,\"nis\":\"1234563\",\"nama\":\"siswa3\",\"alamat\":\"alamat3\"}]'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":5,\"nis\":\"1234561\",\"nama\":\"siswa1\",\"alamat\":\"alamat1\"},{\"id\":6,\"nis\":\"1234562\",\"nama\":\"siswa2\",\"alamat\":\"alamat2\"},{\"id\":7,\"nis\":\"1234563\",\"nama\":\"siswa3\",\"alamat\":\"alamat3\"}]'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM peserta'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [SQL GETGEN DATA] | '[{\"total\":9}]'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":9}]'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM peserta LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [SQL GETGEN DATA] | '[{\"id\":3,\"id_ujian\":4,\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"peserta\":\"1234562\"},{\"id\":5,\"id_ujian\":4,\"peserta\":\"1234563\"},{\"id\":6,\"id_ujian\":5,\"peserta\":\"1234561\"},{\"id\":7,\"id_ujian\":5,\"peserta\":\"1234562\"},{\"id\":8,\"id_ujian\":5,\"peserta\":\"1234563\"},{\"id\":9,\"id_ujian\":6,\"peserta\":\"1234561\"},{\"id\":10,\"id_ujian\":6,\"peserta\":\"1234562\"},{\"id\":11,\"id_ujian\":6,\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 16:29:30 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":3,\"id_ujian\":4,\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"peserta\":\"1234562\"},{\"id\":5,\"id_ujian\":4,\"peserta\":\"1234563\"},{\"id\":6,\"id_ujian\":5,\"peserta\":\"1234561\"},{\"id\":7,\"id_ujian\":5,\"peserta\":\"1234562\"},{\"id\":8,\"id_ujian\":5,\"peserta\":\"1234563\"},{\"id\":9,\"id_ujian\":6,\"peserta\":\"1234561\"},{\"id\":10,\"id_ujian\":6,\"peserta\":\"1234562\"},{\"id\":11,\"id_ujian\":6,\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 16:30:39 - [SQL GETGEN DATA] | QUERY:\"SELECT COUNT(*) as total FROM tbl_user WHERE username='Admin' AND password ='Admin'\""}
+{"level":"debug","message":"06 May 2023 16:30:39 - [SQL GETGEN DATA] | '[{\"total\":1}]'"}
+{"level":"debug","message":"06 May 2023 16:30:39 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":1}]'"}
+{"level":"debug","message":"06 May 2023 16:30:39 - [SQL GETGEN DATA] | QUERY:\"SELECT * FROM tbl_user WHERE username='Admin' AND password ='Admin' LIMIT 0,10\""}
+{"level":"debug","message":"06 May 2023 16:30:39 - [SQL GETGEN DATA] | '[{\"id\":2,\"username\":\"Admin\",\"password\":\"Admin\",\"level\":\"Administrator\"}]'"}
+{"level":"debug","message":"06 May 2023 16:30:39 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":2,\"username\":\"Admin\",\"password\":\"Admin\",\"level\":\"Administrator\"}]'"}
+{"level":"debug","message":"06 May 2023 16:30:54 - [SQL GETGEN DATA] | QUERY:\"SELECT COUNT(*) as total FROM tbl_user WHERE username='Admin' AND password ='Admin1'\""}
+{"level":"debug","message":"06 May 2023 16:30:54 - [SQL GETGEN DATA] | '[{\"total\":0}]'"}
+{"level":"debug","message":"06 May 2023 16:30:54 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":0}]'"}
+{"level":"debug","message":"06 May 2023 16:30:58 - [SQL GETGEN DATA] | QUERY:\"SELECT COUNT(*) as total FROM tbl_user WHERE username='Admin' AND password ='Admin'\""}
+{"level":"debug","message":"06 May 2023 16:30:58 - [SQL GETGEN DATA] | '[{\"total\":1}]'"}
+{"level":"debug","message":"06 May 2023 16:30:58 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":1}]'"}
+{"level":"debug","message":"06 May 2023 16:30:58 - [SQL GETGEN DATA] | QUERY:\"SELECT * FROM tbl_user WHERE username='Admin' AND password ='Admin' LIMIT 0,10\""}
+{"level":"debug","message":"06 May 2023 16:30:58 - [SQL GETGEN DATA] | '[{\"id\":2,\"username\":\"Admin\",\"password\":\"Admin\",\"level\":\"Administrator\"}]'"}
+{"level":"debug","message":"06 May 2023 16:30:58 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":2,\"username\":\"Admin\",\"password\":\"Admin\",\"level\":\"Administrator\"}]'"}
+{"level":"debug","message":"\n06 May 2023 16:34:05 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 16:34:05 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 16:35:17 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 16:35:17 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"06 May 2023 16:36:37 - [SQL GETGEN DATA] | QUERY:\"SELECT COUNT(*) as total FROM tbl_user WHERE username='Admin' AND password ='admin'\""}
+{"level":"debug","message":"06 May 2023 16:36:37 - [SQL GETGEN DATA] | '[{\"total\":1}]'"}
+{"level":"debug","message":"06 May 2023 16:36:37 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":1}]'"}
+{"level":"debug","message":"06 May 2023 16:36:37 - [SQL GETGEN DATA] | QUERY:\"SELECT * FROM tbl_user WHERE username='Admin' AND password ='admin' LIMIT 0,10\""}
+{"level":"debug","message":"06 May 2023 16:36:37 - [SQL GETGEN DATA] | '[{\"id\":2,\"username\":\"Admin\",\"password\":\"Admin\",\"level\":\"Administrator\"}]'"}
+{"level":"debug","message":"06 May 2023 16:36:37 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":2,\"username\":\"Admin\",\"password\":\"Admin\",\"level\":\"Administrator\"}]'"}
+{"level":"debug","message":"06 May 2023 16:36:42 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM siswa'"}
+{"level":"debug","message":"06 May 2023 16:36:42 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 16:36:42 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 16:36:42 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM siswa LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 16:36:42 - [SQL GETGEN DATA] | '[{\"id\":5,\"nis\":\"1234561\",\"nama\":\"siswa1\",\"alamat\":\"alamat1\"},{\"id\":6,\"nis\":\"1234562\",\"nama\":\"siswa2\",\"alamat\":\"alamat2\"},{\"id\":7,\"nis\":\"1234563\",\"nama\":\"siswa3\",\"alamat\":\"alamat3\"}]'"}
+{"level":"debug","message":"06 May 2023 16:36:42 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":5,\"nis\":\"1234561\",\"nama\":\"siswa1\",\"alamat\":\"alamat1\"},{\"id\":6,\"nis\":\"1234562\",\"nama\":\"siswa2\",\"alamat\":\"alamat2\"},{\"id\":7,\"nis\":\"1234563\",\"nama\":\"siswa3\",\"alamat\":\"alamat3\"}]'"}
+{"level":"debug","message":"06 May 2023 16:37:00 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 16:37:00 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:37:00 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:37:00 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian'"}
+{"level":"debug","message":"06 May 2023 16:37:00 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 16:37:00 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 16:37:00 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 16:37:00 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:37:00 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:37:00 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian'"}
+{"level":"debug","message":"06 May 2023 16:37:00 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 16:37:00 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 16:37:01 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM hasil'"}
+{"level":"debug","message":"06 May 2023 16:37:01 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:37:01 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:37:01 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM hasil LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 16:37:01 - [SQL GETGEN DATA] | '[{\"id\":3,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234562\"},{\"id\":6,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"C\",\"peserta\":\"1234563\"},{\"id\":7,\"id_ujian\":6,\"id_matpel\":8,\"hasil\":\"C\",\"peserta\":\"1234561\"}]'"}
+{"level":"debug","message":"06 May 2023 16:37:01 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":3,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234562\"},{\"id\":6,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"C\",\"peserta\":\"1234563\"},{\"id\":7,\"id_ujian\":6,\"id_matpel\":8,\"hasil\":\"C\",\"peserta\":\"1234561\"}]'"}
+{"level":"debug","message":"06 May 2023 16:37:08 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 16:37:08 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:37:08 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:37:08 - [SQL GETGEN DATA] | QUERY:\"SELECT ujian.id_matpel,mata_pelajaran.nama_matpel FROM ujian INNER JOIN mata_pelajaran ON ujian.id_matpel = mata_pelajaran.id_matpel WHERE ujian.id ='4'\""}
+{"level":"debug","message":"06 May 2023 16:37:08 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"}]'"}
+{"level":"debug","message":"06 May 2023 16:37:08 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"}]'"}
+{"level":"debug","message":"06 May 2023 16:37:08 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM siswa'"}
+{"level":"debug","message":"06 May 2023 16:37:08 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 16:37:08 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 16:37:08 - [SQL GETGEN DATA] | QUERY:'SELECT peserta FROM peserta WHERE id_ujian=4'"}
+{"level":"debug","message":"06 May 2023 16:37:08 - [SQL GETGEN DATA] | '[{\"peserta\":\"1234561\"},{\"peserta\":\"1234562\"},{\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 16:37:08 - [RESULT GETGEN DATA ARRAY] | '[{\"peserta\":\"1234561\"},{\"peserta\":\"1234562\"},{\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 16:37:17 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 16:37:17 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:37:17 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:37:17 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM  mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 16:37:17 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 16:37:17 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 16:37:17 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 16:37:17 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:37:17 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:37:17 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM  mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 16:37:17 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 16:37:17 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"},{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"},{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"},{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 16:37:17 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 16:37:17 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:37:17 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 16:37:17 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 16:37:17 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 16:37:17 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"\n06 May 2023 16:41:26 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 16:41:26 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:04:12 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:04:12 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:04:15 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:04:15 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:05:28 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:05:28 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:06:26 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:06:26 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:07:32 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:07:32 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:08:08 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:08:08 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:09:57 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:09:57 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:11:03 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:11:03 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:12:06 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:12:06 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:13:30 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:13:30 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:16:34 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:16:34 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:17:12 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:17:12 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:18:17 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:18:17 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:19:15 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:19:15 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:21:33 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:21:33 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:23:21 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:23:21 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:24:00 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:24:00 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:24:53 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:24:53 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:25:25 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:25:25 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:25:58 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:25:58 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:26:07 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:26:07 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:26:55 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:26:55 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:27:36 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:27:36 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:27:52 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:27:52 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:29:43 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:29:43 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:30:03 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:30:03 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:30:48 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:30:48 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:32:08 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:32:08 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:34:23 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:34:23 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:35:08 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:35:08 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"\n06 May 2023 17:36:59 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 May 2023 17:36:59 - [ W A K E   U P ] | RUN AT PATH: /api/controller/pattern, PORT: 3001"}
+{"level":"debug","message":"06 May 2023 17:38:05 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 17:38:05 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM ujian'"}
+{"level":"debug","message":"06 May 2023 17:38:05 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 17:38:05 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 17:38:05 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian'"}
+{"level":"debug","message":"06 May 2023 17:38:05 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 17:38:05 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 17:38:05 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 17:38:05 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 17:38:05 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM ujian'"}
+{"level":"debug","message":"06 May 2023 17:38:05 - [SQL GETGEN DATA] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 17:38:05 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":4,\"nama_ujian\":\"Ujian1\",\"id_matpel\":6,\"tanggal\":\"2023-05-05T14:29:09.000Z\"},{\"id\":5,\"nama_ujian\":\"Ujian2\",\"id_matpel\":7,\"tanggal\":\"2023-05-05T16:10:22.000Z\"},{\"id\":6,\"nama_ujian\":\"Ujian3\",\"id_matpel\":8,\"tanggal\":\"2023-05-06T07:32:14.000Z\"},{\"id\":7,\"nama_ujian\":\"Ujian4\",\"id_matpel\":9,\"tanggal\":\"2023-05-06T07:32:39.000Z\"}]'"}
+{"level":"debug","message":"06 May 2023 17:38:05 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM hasil'"}
+{"level":"debug","message":"06 May 2023 17:38:05 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 17:38:05 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 17:38:05 - [SQL GETGEN DATA] | QUERY:'SELECT * FROM hasil LIMIT 0,10'"}
+{"level":"debug","message":"06 May 2023 17:38:05 - [SQL GETGEN DATA] | '[{\"id\":3,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234562\"},{\"id\":6,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"C\",\"peserta\":\"1234563\"},{\"id\":7,\"id_ujian\":6,\"id_matpel\":8,\"hasil\":\"C\",\"peserta\":\"1234561\"}]'"}
+{"level":"debug","message":"06 May 2023 17:38:05 - [RESULT GETGEN DATA ARRAY] | '[{\"id\":3,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234561\"},{\"id\":4,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"A\",\"peserta\":\"1234562\"},{\"id\":6,\"id_ujian\":4,\"id_matpel\":6,\"hasil\":\"C\",\"peserta\":\"1234563\"},{\"id\":7,\"id_ujian\":6,\"id_matpel\":8,\"hasil\":\"C\",\"peserta\":\"1234561\"}]'"}
+{"level":"debug","message":"06 May 2023 17:38:16 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 17:38:16 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 17:38:16 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 17:38:16 - [SQL GETGEN DATA] | QUERY:\"SELECT ujian.id_matpel,mata_pelajaran.nama_matpel FROM ujian INNER JOIN mata_pelajaran ON ujian.id_matpel = mata_pelajaran.id_matpel WHERE ujian.id ='4'\""}
+{"level":"debug","message":"06 May 2023 17:38:16 - [SQL GETGEN DATA] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"}]'"}
+{"level":"debug","message":"06 May 2023 17:38:16 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":6,\"nama_matpel\":\"Matematika\"}]'"}
+{"level":"debug","message":"06 May 2023 17:38:16 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM siswa'"}
+{"level":"debug","message":"06 May 2023 17:38:16 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 17:38:16 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 17:38:16 - [SQL GETGEN DATA] | QUERY:'SELECT peserta FROM peserta WHERE id_ujian=4'"}
+{"level":"debug","message":"06 May 2023 17:38:16 - [SQL GETGEN DATA] | '[{\"peserta\":\"1234561\"},{\"peserta\":\"1234562\"},{\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 17:38:16 - [RESULT GETGEN DATA ARRAY] | '[{\"peserta\":\"1234561\"},{\"peserta\":\"1234562\"},{\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 17:38:19 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 17:38:19 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 17:38:19 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 17:38:19 - [SQL GETGEN DATA] | QUERY:\"SELECT ujian.id_matpel,mata_pelajaran.nama_matpel FROM ujian INNER JOIN mata_pelajaran ON ujian.id_matpel = mata_pelajaran.id_matpel WHERE ujian.id ='5'\""}
+{"level":"debug","message":"06 May 2023 17:38:19 - [SQL GETGEN DATA] | '[{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 17:38:19 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":7,\"nama_matpel\":\"Biologi\"}]'"}
+{"level":"debug","message":"06 May 2023 17:38:19 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM siswa'"}
+{"level":"debug","message":"06 May 2023 17:38:19 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 17:38:19 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 17:38:19 - [SQL GETGEN DATA] | QUERY:'SELECT peserta FROM peserta WHERE id_ujian=5'"}
+{"level":"debug","message":"06 May 2023 17:38:19 - [SQL GETGEN DATA] | '[{\"peserta\":\"1234561\"},{\"peserta\":\"1234562\"},{\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 17:38:19 - [RESULT GETGEN DATA ARRAY] | '[{\"peserta\":\"1234561\"},{\"peserta\":\"1234562\"},{\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 17:38:23 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 17:38:23 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 17:38:23 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 17:38:23 - [SQL GETGEN DATA] | QUERY:\"SELECT ujian.id_matpel,mata_pelajaran.nama_matpel FROM ujian INNER JOIN mata_pelajaran ON ujian.id_matpel = mata_pelajaran.id_matpel WHERE ujian.id ='6'\""}
+{"level":"debug","message":"06 May 2023 17:38:23 - [SQL GETGEN DATA] | '[{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"}]'"}
+{"level":"debug","message":"06 May 2023 17:38:23 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":8,\"nama_matpel\":\"Fisika\"}]'"}
+{"level":"debug","message":"06 May 2023 17:38:23 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM siswa'"}
+{"level":"debug","message":"06 May 2023 17:38:23 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 17:38:23 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 17:38:23 - [SQL GETGEN DATA] | QUERY:'SELECT peserta FROM peserta WHERE id_ujian=6'"}
+{"level":"debug","message":"06 May 2023 17:38:23 - [SQL GETGEN DATA] | '[{\"peserta\":\"1234561\"},{\"peserta\":\"1234562\"},{\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 17:38:23 - [RESULT GETGEN DATA ARRAY] | '[{\"peserta\":\"1234561\"},{\"peserta\":\"1234562\"},{\"peserta\":\"1234563\"}]'"}
+{"level":"debug","message":"06 May 2023 17:38:26 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM mata_pelajaran'"}
+{"level":"debug","message":"06 May 2023 17:38:26 - [SQL GETGEN DATA] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 17:38:26 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":4}]'"}
+{"level":"debug","message":"06 May 2023 17:38:26 - [SQL GETGEN DATA] | QUERY:\"SELECT ujian.id_matpel,mata_pelajaran.nama_matpel FROM ujian INNER JOIN mata_pelajaran ON ujian.id_matpel = mata_pelajaran.id_matpel WHERE ujian.id ='7'\""}
+{"level":"debug","message":"06 May 2023 17:38:26 - [SQL GETGEN DATA] | '[{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 17:38:26 - [RESULT GETGEN DATA ARRAY] | '[{\"id_matpel\":9,\"nama_matpel\":\"Kimia\"}]'"}
+{"level":"debug","message":"06 May 2023 17:38:26 - [SQL GETGEN DATA] | QUERY:'SELECT COUNT(*) as total FROM siswa'"}
+{"level":"debug","message":"06 May 2023 17:38:26 - [SQL GETGEN DATA] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 17:38:26 - [RESULT GETGEN DATA ARRAY] | '[{\"total\":3}]'"}
+{"level":"debug","message":"06 May 2023 17:38:26 - [SQL GETGEN DATA] | QUERY:'SELECT peserta FROM peserta WHERE id_ujian=7'"}
+{"level":"debug","message":"06 May 2023 17:38:26 - [SQL GETGEN DATA] | '[]'"}
+{"level":"debug","message":"06 May 2023 17:38:26 - [RESULT GETGEN DATA] | KOSONG: undefined"}

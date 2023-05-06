@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>.: Family Asset :.</title>
+	<link rel="icon" href="/img/vs.png" type="image/x-icon" />
+	<link rel="stylesheet" type="text/css" href="/themes/metro-blue/easyui.css">
+	<link rel="stylesheet" type="text/css" href="/themes/icon.css">
+	<link rel="stylesheet" type="text/css" href="/themes/color.css">
+	<!-- <link rel="stylesheet" type="text/css" href="/css/navpanel.css"> -->
+	<link rel="stylesheet" type="text/css" href="/themes/color.css">
+	<link rel="stylesheet" type="text/css" href="/themes/mobile.css">
+	<script type="text/javascript" src="/js/jquery.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.easyui.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.easyui.mobile.js"></script>
+	<script type="text/javascript" src="/js/home.js"></script>
+	<link rel="stylesheet" href="/css/w3.css">
+	<style>
+				
+		.datagrid-row{
+    		height:45px;
+		}
+
+        /* div.res {
+            word-wrap: break-word;
+        } */
+
+		</style>
+</head>
+
+<body>
+    <div style="margin:10px 0 0 20px">
+    <div class="easyui-panel" title="Parameter" style="width:100%;max-width:400px;padding:30px 60px;">
+        <div style="margin-bottom:20px">
+            <input id="jb" class="easyui-textbox" label="Jumlah Bilangan:" labelPosition="top"  style="width:100%;">
+        </div>
+        <div style="margin-bottom:20px">
+            <input id="st" class="easyui-textbox" label="Angka Awal:" labelPosition="top" style="width:100%;">
+        </div>
+        <div style="margin-bottom:20px">
+            <input id="op" class="easyui-textbox" label="Operasi:" labelPosition="top" style="width:100%;">
+        </div>
+        
+        <div>
+            <a id="btn" href="#" class="easyui-linkbutton"  style="width:100%;height:32px">Hitung</a>
+        </div>
+    </div>
+    </div>
+    <div style="margin:-370px 0 0 430px">
+        <div class="easyui-panel" title="Result" style="width:100%;max-width:400px;height:370px;padding:30px 60px;">
+            <div style="margin-bottom:20px">
+                <input id="rs" class="easyui-textbox"  multiline="true"  style="width:100%;height:120px">
+            </div>
+            <div style="margin-bottom:20px">
+            A = Operasi Penjumlahan,
+            B = Operasi Pengurangan
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="/js/bilanganganjil.js"></script>
+</body>
+</html>

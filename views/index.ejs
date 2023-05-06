@@ -1,0 +1,163 @@
+
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>.: Ujian Management :.</title>
+        <link rel="icon" href="/img/vs.png" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="/themes/metro-blue/easyui.css">
+        <link rel="stylesheet" type="text/css" href="/themes/icon.css">
+        <link rel="stylesheet" type="text/css" href="/themes/color.css">
+        <!-- <link rel="stylesheet" type="text/css" href="/css/navpanel.css"> -->
+        <link rel="stylesheet" type="text/css" href="/themes/color.css">
+        <script type="text/javascript" src="/js/jquery.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.easyui.min.js"></script>
+        
+        <script type="text/javascript" src="/js/home.js"></script>
+        <link rel="stylesheet" href="/css/w3.css">
+    
+    <style>
+    html { 
+      /* background: url(img/b1.png) no-repeat center center fixed;  */
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    }
+    .success
+    {
+        color:#FFFFFF
+    }
+    .bg
+        {
+        width: 100%;
+        z-index: 0;
+        }
+    .box {
+        background:#FFFFFF;
+        position:absolute;
+        top:0px;
+        right:0px;
+        bottom:0px;
+        left:0px;
+        }
+    .box1 {
+        background:#2196F3;
+        position:absolute;
+        top:0px;
+        right:0px;
+        bottom:0px;
+        left:0px;
+        }
+    .hcls1{
+		background: #2196F3;
+	}
+	.hcls1 .panel-title{
+		color: #FFFFFF;
+	}
+    </style>
+    <script>
+    
+    $(document).ready(function(){
+        // var header = $('#p').panel('header');
+        // header.css('background', '#2196F3');
+        // function disableBack() { window.history.forward(); }
+        // setTimeout("disableBack()", 0);
+        // window.onunload = function () { null };
+
+        function disableBack() {
+                    window.history.forward()
+                }
+                window.onload = disableBack();
+                window.onpageshow = function(e) {
+                    if (e.persisted)
+                        disableBack();
+                }
+       
+        $("#login").click(function(){
+                
+                var action = $("#lg-form").attr('action');
+                var form_data = {
+                    uname: $("#uname").textbox('getValue'),
+                    upass: $("#upass").textbox('getValue'),
+                    is_ajax: 1
+                };
+                
+                //console.log(form_data)
+
+                $.ajax({
+                    type: "POST",
+                    url: action,
+                    data: form_data,
+                    success: function(response)
+                    {
+
+                        if(response.success == true){
+                            $("#lg-form").slideUp('slow', function(){
+                                $("#message").html('<p class="success">You have logged in successfully!</p><p class="success">Redirecting....</p>');
+                                setTimeout(myFunction, 1000);
+                                
+                                sessionStorage.setItem("level", response.level);
+                            });
+                        }else{
+                        $("#message").html('<p class="error">ERROR: Invalid username and/or password.</p>');}
+                    },
+                    error: function (response){
+                        //alert(response.message);
+                        $("#message").html('<p class="error">ERROR: Invalid username and/or password.</p>');
+                    }
+                });
+                return false;
+            });	
+            
+    function myFunction() {
+    window.location='home';
+    }		
+    });
+    
+    
+    
+    </script>
+    </head>
+    <body>
+
+        <div class="easyui-layout" style="width:100%;height:100%;">
+            <div id="p" data-options="region:'west',border:false" title="" style="width:50%;padding:10px">
+               <div class="box">
+                    <img src="/img/b1.png"/>
+               </div>
+            </div>
+            <div data-options="region:'center',border:false" title="">
+                <div class="box1">
+
+                    <Center>
+        
+                        <div style="margin-top:30%;margin-left:0%;border:'false';">
+                        <form id ="lg-form" name="lg-form" action='validate' method="post">
+                        <div class="easyui-panel" title="" style="width:100%;max-width:400px;padding:30px 60px;border-radius:1px;background: #FFFFFF;box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" headerCls="hcls1">
+                            <div style="margin-top:15px;margin-bottom:10px">
+                                <input id="uname" name="uname" class="easyui-textbox" style="width:100%;height:35px;padding:12px" data-options="prompt:'Username',iconCls:'icon-man',iconWidth:38">
+                            </div>
+                            <div style="margin-bottom:20px">
+                                <input id ="upass" name="upass" class="easyui-textbox" type="password" style="width:100%;height:35px;padding:12px" data-options="prompt:'Password',iconCls:'icon-lock',iconWidth:38">
+                            </div>
+                    
+                            <div align="right">
+                            <button name="submit" id="login" class="w3-button w3-blue" style="width:100px;">Login</button>
+                            </div>
+                        </div>
+                        <div id="demo"><small><font color="white"> &copy;  Siswo Laras 2017</font> </small></div>
+                        </form>
+                        <div id="message"></div> 
+                        </div>
+                    
+                    </Center>
+
+                </div>
+                
+
+            </div>
+        </div>
+       
+        
+    </body>
+    </html>
